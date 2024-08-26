@@ -11,3 +11,13 @@ DevFolio is a professional portfolio website showcasing my skills, projects, and
 - **Portfolio Section:** Display of my work and projects.
 - **Blog Section:** Area for sharing updates and articles.
 - **Contact Form:** Allows visitors to get in touch.
+
+## Technologies Used
+
+- **HTML:** For structuring the content.
+- **CSS:** For styling and layout.
+- **Bootstrap:** For responsive design and UI components.
+- **JavaScript:** For interactivity and smooth scrolling.
+- **Font Awesome:** For adding icons.
+- **Typed.js:** For text animations.
+- **Owl Carousel:** For creating carousels.
